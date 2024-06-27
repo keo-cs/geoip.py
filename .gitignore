@@ -1,0 +1,5 @@
+**
+!.gitignore
+!environment.yml
+!geoip.py
+!README.md

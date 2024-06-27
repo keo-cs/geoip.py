@@ -1,0 +1,9 @@
+name: geoip
+channels:
+  - defaults
+dependencies:
+  - python
+  - python-dotenv
+  - rich
+  - validators
+  - conda-forge::geoip2
