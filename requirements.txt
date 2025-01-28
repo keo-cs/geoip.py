@@ -1,0 +1,4 @@
+python-dotenv
+rich
+validators
+geoip2
